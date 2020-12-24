@@ -110,5 +110,3 @@ vols.forEach((vol) => {
 
 
 
-//Allez voir ce qu'est un JSON ;)
-//https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON
